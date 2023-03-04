@@ -39,5 +39,5 @@ jobs:
       run: |
         pytest
     - name: Report coverage
-        run: |
+      run: |
           codecov
