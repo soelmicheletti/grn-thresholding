@@ -22,8 +22,7 @@ setup(
     install_requires=["mixem>=0.1.4", 
                       "scikit-learn",
                       "pandas",
-                      "numpy",
-                      "unittest"
+                      "numpy"
                      ],
     classifiers=[
         "Development Status :: 4 - Beta",
