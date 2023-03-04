@@ -1,3 +1,4 @@
+![Alt text](/wallpaper.jpg?raw=true "Title")
 # GRN-Thresholding
 
 [![master](https://github.com/soelmicheletti/grn-thresholding/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/soelmicheletti/grn-thresholding/actions/workflows/python-app.yml)[![PyPI - Python Version](https://img.shields.io/pypi/v/grn-thresholding?style=flat&colorA=0f0f0f&colorB=0f0f0f)](https://pypi.org/project/grn-thresholding/)
