@@ -19,7 +19,12 @@ setup(
         "statistics",
         "causality",
     ],
-    install_requires=["mixem>=0.1.4", "scikit-learn"],
+    install_requires=["mixem>=0.1.4", 
+                      "scikit-learn",
+                      "pandas",
+                      "numpy",
+                      "unittest"
+                     ],
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
