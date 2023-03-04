@@ -1,0 +1,4 @@
+.coverage
+.idea/
+.ipynb_checkpoints/
+grn_thresholding.egg-info/
